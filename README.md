@@ -3,7 +3,7 @@
 
 ## About Me
 - :bulb: Always interested in learning new things
-- :computer: Working as an SAP Technical Consulatant for the past 3 years
+- :computer: Working as an SAP Technical Consultant for the past 3 years
 
 
 📈 **My GitHub Stats:**
