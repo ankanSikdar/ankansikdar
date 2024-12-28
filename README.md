@@ -3,8 +3,7 @@
 
 ## About Me
 - :bulb: Always interested in learning new things
-- :dart: I’m currently learning Flutter and Kotlin for Android Development
-- :heart: I love sunsets and stargazing
+- :computer: Working as an SAP Technical Consulatant for the past 3 years
 
 
 📈 **My GitHub Stats:**
